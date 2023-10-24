@@ -1,6 +1,6 @@
 # Assiut-University-Training-Newcomers
 
-<p align="center"> <a href="https://codeforces.com/group/MWSDmqGsZm/contests"><img src="https://scontent.fcai19-6.fna.fbcdn.net/v/t1.6435-9/79703474_2640632169362208_8782269511052034048_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=P9RwdzJ7EmwAX8RXSMT&_nc_ht=scontent.fcai19-6.fna&oh=00_AfCHRMLsj1WTGIM2mcIHCzDaRKNqH6mcrjRieaAU8eWFMw&oe=64AAF447" width="300"></img> </a> </p>
+<p align="center"> <a href="https://codeforces.com/group/MWSDmqGsZm/contests"><img src="https://scontent.fcai19-6.fna.fbcdn.net/v/t39.30808-6/394767074_122135875148020655_5831416624565017493_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeGIZsJxSFKBDduJiqeh7oANHBhcT9MK7ngcGFxP0wrueM8NWI_fCVaUpvfkMX4rJENxS5HUABrmwnUiitq5XbWM&_nc_ohc=eS3s1Ix950AAX_f55v3&_nc_ht=scontent.fcai19-6.fna&oh=00_AfCKUqGjGIMSTd2iHtuoRfxE26nXa8ah9tTE9ycgL3Yl9Q&oe=653D3292" width="300"></img> </a> </p>
 </a>
 <p align="center" >
     <b>========== <a href="https://codeforces.com/group/MWSDmqGsZm/contests"> Sheets Link </a> ==========</b>
